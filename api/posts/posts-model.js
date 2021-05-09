@@ -7,8 +7,6 @@ module.exports = {
   update,
   remove,
   findPostComments,
-  findCommentById,
-  insertComment,
 };
 
 function find() {
